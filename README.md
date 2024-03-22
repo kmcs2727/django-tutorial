@@ -17,10 +17,10 @@
       <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial02/">チュートリアル２</a></li>
       <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial03/">チュートリアル３</a></li>
       <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial04/">チュートリアル４</a></li>
-      <li><a href=https://docs.djangoproject.com/ja/5.0/intro/tutorial05/>チュートリアル５</a></li>
-      <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial06"/>チュートリアル６</a></li>
-      <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial07">チュートリアル７</a></li>
-      <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial08">チュートリアル８</a></li>
+      <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial05/">チュートリアル５</a></li>
+      <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial06/">チュートリアル６</a></li>
+      <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial07/">チュートリアル７</a></li>
+      <li><a href="https://docs.djangoproject.com/ja/5.0/intro/tutorial08/">チュートリアル８</a></li>
     </ol>
   </div>
 </body>
